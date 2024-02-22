@@ -1,14 +1,3 @@
-Table of Contents
-Introduction
-Projects
-Project 1: Call Centre Trends
-Project 2: [Project Name]
-Project 3: [Project Name]
-Background Information
-Objective
-Features
-
-License
 
 Project 1: Call Centre Trends
 Welcome to the Call Centre Trends Power BI project! This project aims to visualize and analyze data related to call centre trends, as part of our efforts to upskill employees and foster digital transformation at PwC.
